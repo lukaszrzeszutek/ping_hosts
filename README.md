@@ -1,2 +1,2 @@
 # ping_hosts
-Linux
+Bash script to ping hosts on the network.
