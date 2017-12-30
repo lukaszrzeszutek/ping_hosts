@@ -1,0 +1,2 @@
+# ping_hosts
+Linux
